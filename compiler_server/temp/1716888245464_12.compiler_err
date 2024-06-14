@@ -1,0 +1,4 @@
+../compiler_server/temp/1716888245464_12.cpp:16:10: fatal error: header.cpp: No such file or directory
+ #include "header.cpp"
+          ^~~~~~~~~~~~
+compilation terminated.
